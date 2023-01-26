@@ -1,0 +1,12 @@
+"""
+Configuration du jeu
+"""
+TAILLE_PLATEAU = 10
+TAILLE_CASE = 50
+TEMPS_ENTRE_TOUR = 200
+
+# Touches
+BOUTON_HAUT = 'z'
+BOUTON_GAUCHE = 'q'
+BOUTON_BAS = 's'
+BOUTON_DROITE = 'd'
